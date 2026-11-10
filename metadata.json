@@ -1,0 +1,6 @@
+{
+  "name": "Moodify – Music for Your Mood",
+  "description": "Tell us how you feel, and we'll find the music for you. A smart mood-based music recommendation system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
