@@ -229,14 +229,14 @@ export default function App() {
           <div className="flex items-center gap-4 text-slate-400">
             <button
               onClick={() => setShowProjectInfoModal(true)}
-              className="hover:text-white transition-colors"
+              className="hover:text-white transition-colors cursor-pointer"
             >
               Project Documentation
             </button>
             <span>·</span>
             <button
               onClick={() => setShowFavoritesModal(true)}
-              className="hover:text-white transition-colors"
+              className="hover:text-white transition-colors cursor-pointer"
             >
               Saved Tracks ({favorites.length})
             </button>
